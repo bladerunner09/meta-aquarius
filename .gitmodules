@@ -2,3 +2,4 @@
 	path = openbmc
 	url = https://github.com/openbmc/openbmc.git
 	shallow = true
+	branch = 2.18.0
