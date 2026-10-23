@@ -1,0 +1,4 @@
+[submodule "openbmc"]
+	path = openbmc
+	url = https://github.com/openbmc/openbmc.git
+	shallow = true
